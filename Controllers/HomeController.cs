@@ -8,6 +8,7 @@ public class HomeController : BaseController
 {
     public IActionResult Index(){
         ViewBag.Categories = Provider.Category.GetCategories();
+        ViewBag.SubCategories = Provider.SubCategory.GetSubCategories();
         return View();
     }
 

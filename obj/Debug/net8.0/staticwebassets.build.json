@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2070XEGeaPhWXSsUgz10ZNOkQXqQ74KzViyAlQuaSt4=",
+  "Hash": "JNVVpJUmxoglPNn/C3OLrrKq/7VecjCFnc2ty2Kv28U=",
   "Source": "E-commerce",
   "BasePath": "_content/E-commerce",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "E-commerce\\wwwroot",
       "Source": "E-commerce",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\E-commerce.styles.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\E-commerce.styles.css",
       "SourceId": "E-commerce",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "E-commerce.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\ThuongMaiDienTu\\E-commerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\E-commerce.styles.css"
+      "OriginalItemSpec": "C:\\ThuongMaiDienTu\\E-commerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\E-commerce.styles.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-commerce.bundle.scp.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-commerce.bundle.scp.css",
       "SourceId": "E-commerce",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "E-commerce.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\ThuongMaiDienTu\\E-commerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-commerce.bundle.scp.css"
+      "OriginalItemSpec": "C:\\ThuongMaiDienTu\\E-commerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-commerce.bundle.scp.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\css\\animate.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\css\\animate.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "css/animate.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\animate.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\css\\main.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\css\\main.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "css/main.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\css\\prettyPhoto.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\css\\prettyPhoto.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "css/prettyPhoto.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\prettyPhoto.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\css\\price-range.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\css\\price-range.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "css/price-range.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\price-range.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\css\\responsive.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\favicon.ico",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\favicon.ico",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\fonts\\FontAwesome.otf",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "fonts/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "fonts/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\contact.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\contact.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "js/contact.js",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\js\\contact.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\gmaps.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\gmaps.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "js/gmaps.js",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\js\\gmaps.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\html5shiv.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\html5shiv.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "js/html5shiv.js",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\js\\html5shiv.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\jquery.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\jquery.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "js/jquery.js",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\jquery.prettyPhoto.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "js/jquery.prettyPhoto.js",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.prettyPhoto.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\jquery.scrollUp.min.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "js/jquery.scrollUp.min.js",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\main.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\main.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\price-range.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\price-range.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "js/price-range.js",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\js\\price-range.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "E-commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
+      "ContentRoot": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\",
       "BasePath": "_content/E-commerce",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
