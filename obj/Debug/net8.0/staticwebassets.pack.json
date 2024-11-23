@@ -57,6 +57,1094 @@
       "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\categories\\aokhoac.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\aokhoac.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\categories\\kaki.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\kaki.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\categories\\polo.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\polo.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\categories\\quantay.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\quantay.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\categories\\short.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\short.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\categories\\somi.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\somi.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\customers\\a.png",
+      "PackagePath": "staticwebassets\\images\\customers\\a.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\customers\\b.png",
+      "PackagePath": "staticwebassets\\images\\customers\\b.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\customers\\c.png",
+      "PackagePath": "staticwebassets\\images\\customers\\c.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\customers\\d.png",
+      "PackagePath": "staticwebassets\\images\\customers\\d.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\customers\\e.png",
+      "PackagePath": "staticwebassets\\images\\customers\\e.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Accept.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Accept.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Add to basket.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Add to basket.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Add.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Add.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Address book.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Address book.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Alarm.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Alarm.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Anchor.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Anchor.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Application form.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Application form.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Bar chart.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Bar chart.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Basket.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Basket.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Bell.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Bell.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Best.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Best.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Billboard.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Billboard.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Bluetooth.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Bluetooth.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Bomb.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Bomb.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Book.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Book.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Bookmark.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Bookmark.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Box.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Box.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Boy.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Boy.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Brick house.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Brick house.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Bricks.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Bricks.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Brief case.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Brief case.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Brightness.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Brightness.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Bubble.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Bubble.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Buddy.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Buddy.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Cable.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Cable.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Calculator.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Calculator.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Calendar.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Calendar.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Call.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Call.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Camera.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Camera.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Card file.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Card file.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Cash register.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Cash register.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Cat.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Cat.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Certificate.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Certificate.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Clien list.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Clien list.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Clipboard.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Clipboard.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Clock.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Clock.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Closed door.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Closed door.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Closed folder.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Closed folder.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Coin.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Coin.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Coins.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Coins.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Color wheel.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Color wheel.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Comment.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Comment.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Comments.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Comments.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Company.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Company.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Computer.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Computer.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Conference.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Conference.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Connect.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Connect.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Construction.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Construction.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Contrast.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Contrast.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Control panel.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Control panel.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Create.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Create.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Database.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Database.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Date.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Date.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Delete.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Delete.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Desktop.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Desktop.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Diagram.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Diagram.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Dice.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Dice.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Disconnect.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Disconnect.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Discussion.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Discussion.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Document.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Document.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Documents.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Documents.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Dog.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Dog.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Dollar.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Dollar.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Down.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Down.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Download.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Download.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Edit.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Edit.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Euro.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Euro.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Exit button.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Exit button.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Exit.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Exit.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Favourites.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Favourites.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Fax.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Fax.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Flash drive.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Flash drive.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Flow block.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Flow block.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Free.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Free.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Friends.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Friends.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Full basket.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Full basket.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Funny.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Funny.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Game controller.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Game controller.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Gear.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Gear.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Genealogy.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Genealogy.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Gift.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Gift.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Girl.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Girl.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Globe.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Globe.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Handshake.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Handshake.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Happy.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Happy.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Hard disk.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Hard disk.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Heart.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Heart.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Help.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Help.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Hierarchy.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Hierarchy.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Home.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Home.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Hungup.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Hungup.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Industry.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Industry.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Info.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Info.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Key.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Key.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Label.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Label.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Left.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Left.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Lego brick.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Lego brick.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Letter.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Letter.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\List.png",
+      "PackagePath": "staticwebassets\\images\\icons\\List.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Lists.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Lists.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Lock.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Lock.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Log out.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Log out.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Login.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Login.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Mail.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Mail.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Microsoft.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Microsoft.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Mobile phone.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Mobile phone.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Money.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Money.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Monitor.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Monitor.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Mouse.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Mouse.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Music.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Music.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\No.png",
+      "PackagePath": "staticwebassets\\images\\icons\\No.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Notes.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Notes.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Numbered list.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Numbered list.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\OK.png",
+      "PackagePath": "staticwebassets\\images\\icons\\OK.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Online.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Online.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Open door.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Open door.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Open file.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Open file.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Open folder.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Open folder.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Open letter.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Open letter.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Open lock.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Open lock.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Payment.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Payment.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Peace.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Peace.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Pets.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Pets.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Phone.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Phone.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Piggy bank.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Piggy bank.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Piggy.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Piggy.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Pointer.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Pointer.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Pound.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Pound.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Price list.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Price list.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Print preview.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Print preview.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Print.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Print.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Printer.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Printer.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Problem.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Problem.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Properties.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Properties.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\RSS.png",
+      "PackagePath": "staticwebassets\\images\\icons\\RSS.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Red star.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Red star.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Refresh.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Refresh.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Remove from basket.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Remove from basket.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Report.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Report.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Right.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Right.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Rouble.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Rouble.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Sad.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Sad.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Safe.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Safe.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Save as.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Save as.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Save.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Save.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Scroll list.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Scroll list.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Search.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Search.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Shield.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Shield.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Smile.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Smile.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Software.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Software.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Statistics.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Statistics.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Stop.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Stop.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Task list.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Task list.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Telephone.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Telephone.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Text.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Text.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Tick.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Tick.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\To do list.png",
+      "PackagePath": "staticwebassets\\images\\icons\\To do list.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Trash.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Trash.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Unknown person.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Unknown person.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Unlock.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Unlock.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Unordered list.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Unordered list.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Up.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Up.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Upload.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Upload.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\User group.png",
+      "PackagePath": "staticwebassets\\images\\icons\\User group.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\User.png",
+      "PackagePath": "staticwebassets\\images\\icons\\User.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Users.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Users.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Wallet.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Wallet.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Warning.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Warning.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Weather.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Weather.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Wireless.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Wireless.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Wizard.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Wizard.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Yen.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Yen.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Yin-Yang.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Yin-Yang.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Zoom in.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Zoom in.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Zoom out.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Zoom out.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\Zoom.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Zoom.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\eng.gif",
+      "PackagePath": "staticwebassets\\images\\icons\\eng.gif"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\icons\\vit.gif",
+      "PackagePath": "staticwebassets\\images\\icons\\vit.gif"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\others\\shopping_cart.png",
+      "PackagePath": "staticwebassets\\images\\others\\shopping_cart.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\10.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\110.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\110.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\111.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\111.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\112.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\112.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\113.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\113.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\114.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\114.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\115.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\115.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\116.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\116.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\117.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\117.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\118.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\118.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\119.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\119.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\120.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\120.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\121.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\121.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\122.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\122.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\20.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\20.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\21.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\21.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\23.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\23.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\24.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\24.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\25.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\25.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\26.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\26.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\27.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\27.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\28.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\28.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\29.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\29.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\30.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\30.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\31.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\31.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\32.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\32.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\33.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\33.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\4.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\40.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\40.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\41.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\41.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\42.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\42.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\43.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\43.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\44.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\44.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\45.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\45.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\46.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\46.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\47.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\47.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\48.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\48.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\49.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\49.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\5.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\50.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\50.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\51.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\51.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\52.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\52.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\53.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\53.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\54.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\54.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\6.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\60.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\60.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\61.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\61.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\62.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\62.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\63.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\63.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\64.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\64.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\65.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\65.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\66.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\66.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\67.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\67.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\68.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\68.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\69.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\69.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\70.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\70.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\71.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\71.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\72.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\72.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\74.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\74.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\75.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\75.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\76.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\76.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\8.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\9.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\90.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\90.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\91.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\91.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\92.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\92.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\93.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\93.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\94.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\94.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\95.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\95.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\96.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\96.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\97.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\97.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\98.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\98.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\products\\99.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\99.jpg"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\suppliers\\adam.png",
+      "PackagePath": "staticwebassets\\images\\suppliers\\adam.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\suppliers\\blue.png",
+      "PackagePath": "staticwebassets\\images\\suppliers\\blue.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\suppliers\\kenta.png",
+      "PackagePath": "staticwebassets\\images\\suppliers\\kenta.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\suppliers\\men.png",
+      "PackagePath": "staticwebassets\\images\\suppliers\\men.png"
+    },
+    {
+      "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\images\\suppliers\\topmen.png",
+      "PackagePath": "staticwebassets\\images\\suppliers\\topmen.png"
+    },
+    {
       "Id": "C:\\ThuongMaiDienTu\\E-commerce\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },

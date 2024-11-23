@@ -1,0 +1,57 @@
+@model IEnumerable<Product>
+@{
+	 ViewData["Title"] = ViewBag.Category.CategoryName;
+}
+<section>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-3">  
+				<!--category-->
+	        <div class="left-sidebar">
+					<h2>Category</h2>
+					<div class="panel-group category-products" id="accordian"><!--category-productsr-->
+
+						@foreach (Category item in ViewBag.Categories)
+						{
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									<h4 class="panel-title"><a href="/home/category/@item.CategoryId">@item.CategoryName</a></h4>
+								</div>
+							</div>
+						}
+					</div><!--/category-products-->
+					<div class="shipping text-center"><!--shipping-->
+						<img src="images/home/shipping.jpg" alt="" />
+					</div><!--/shipping-->
+		    </div>
+			</div>
+
+			<div class="col-sm-9 padding-right">
+				<div class="features_items"><!--features_items-->
+					<h2 class="title text-center">Features Items</h2>
+
+					@foreach (var item in Model)
+					{
+						<div class="col-sm-4">
+							<div class="product-image-wrapper">
+								<div class="single-products">
+									<div class="productinfo text-center">
+										<img class="img-fluid" src="/images/products/@item.Image" alt="@item.ProductName"
+											style="max-width: 100px; max-heigh:70" />
+										<h3><a href="/home/details/@item.ProductId">@item.ProductName</a></h3>
+										<h2>$@item.Price</h2>
+										<a href="#" class="btn btn-default add-to-cart"><i
+												class="fa fa-shopping-cart"></i>Add to cart</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					}
+				</div><!--features_items-->
+
+
+
+			</div>
+		</div>
+	</div>
+</section>

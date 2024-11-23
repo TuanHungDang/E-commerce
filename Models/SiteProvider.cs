@@ -8,6 +8,6 @@ public class SiteProvider : BaseProvider
     CategoryRepository? category;
     public CategoryRepository Category => category ??= new CategoryRepository(Connection);
 
-    SubCategoryRepository? subCategory;
-    public SubCategoryRepository SubCategory => subCategory ??= new SubCategoryRepository(Connection);
+    ProductRepository? product;
+    public ProductRepository Product => product ??= new ProductRepository(Connection);
 }
